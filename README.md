@@ -1,1 +1,1 @@
-## !Hola, mi nombre es Pablo Ruiz 👋
+## Hola, mi nombre es Pablo Ruiz 👋
